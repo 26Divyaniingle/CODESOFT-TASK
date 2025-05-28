@@ -1,3 +1,5 @@
+
+
 # CODSOFT Internship Projects 🚀
 
 This repository contains all the tasks completed as part of my internship with **CodSoft**. Each task is designed to enhance problem-solving, programming, and development skills using **Python**.
@@ -44,3 +46,9 @@ A fun and interactive Python game where users compete against the computer.
 > Reinforces use of loops, conditions, and randomness in Python.
 
 ---
+https://github.com/user-attachments/assets/c16c0548-720e-492d-9aad-c8beed03c865
+
+https://github.com/user-attachments/assets/1cd9fae9-3287-4312-afef-47649d83b316
+
+https://github.com/user-attachments/assets/addcdf8b-6d59-4498-8501-71117c70f406
+
